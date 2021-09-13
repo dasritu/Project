@@ -36,7 +36,7 @@
      background: linear-gradient(rgb(238 214 43),rgb(0, 255, 242));  
  }
 .header {
-   margin: auto;
+   margin: 0px;
    display: flex;
    height: 100px;
    background-color: rgb(17, 17, 17); 
@@ -53,8 +53,8 @@
     margin-bottom: 30px;
     background-color:rgb(1, 39, 77);
     background-blend-mode:hard-light;
-    margin-left: 12px;
-    margin-right: 12px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 /*.imc{
 
